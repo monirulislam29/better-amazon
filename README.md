@@ -1,6 +1,6 @@
 # BetterAmazon
 
-- [ ] TypeScript
+- [x] TypeScript
   - [ ] JavaScript
 - [ ] Package Manager
   - [ ] NPM
